@@ -27,8 +27,8 @@ To install Bamazon, you first need to read this list of stuff:
 * Lastly, have fun. Life is short, buy a plumbus.
 
 ## SCREEN SHOTS!
-![](https://github.com/scruffythejanitor/bamazon/images/1)
-![](https://github.com/scruffythejanitor/bamazon/images/2)
-![](https://github.com/scruffythejanitor/bamazon/images/3)
+![](https://github.com/Scruffythejanitor/bamazon/blob/master/images/1.png)
+![](https://github.com/Scruffythejanitor/bamazon/blob/master/images/2.png)
+![](https://github.com/Scruffythejanitor/bamazon/blob/master/images/3.png)
 
  
